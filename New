@@ -1,0 +1,18 @@
+<select name="country" class="countries" id="countryId">
+<option value="">Select Country</option>
+</select>
+<select name="state" class="states" id="stateId">
+<option value="">Select State</option>
+</select>
+<select name="city" class="cities" id="cityId">
+<option value="">Select City</option>
+</select>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="http://lab.iamrohit.in/js/location.js"></script>
+
+
+This time i am going to give you a very useful database that is countries, states and cities data of world in sql.
+
+Every time when we plan to create a registration form then we stuck on one point that is how can we get list of all Countries, States and Cities of world.
+So don’t worry i have solution, I have created mapped database of Countries, States and Cities So now you can easily get mapped .sql file of countries, states and cities from here and can add on your web page as per your requirement.
+https://www.tajainfo.in/2023/06/bihar-post-matric-scholarship.html
